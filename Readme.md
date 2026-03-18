@@ -75,9 +75,6 @@ This project is a part of these Open Source Programs
 
 ## ✨ Thank You for Your Contribution!
 Thanks a lot for spending your time helping fintech-api grow. Thanks a lot! Keep rocking 🍻
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/Clueless-Community/repositories/fintech-api/contributors?format=svg&limit=54" width="600" height"250" />
-</p>
 
 🙏 Thank you for your interest in contributing to our project! We appreciate any contributions, whether it's bug fixes, new features, or documentation improvements.
 
